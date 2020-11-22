@@ -22,7 +22,7 @@ func Reverse(x int) int {
 		}
 	}
 
-	if negative == true {
+	if negative {
 		rev = fmt.Sprintf("-%s", rev)
 	}
 

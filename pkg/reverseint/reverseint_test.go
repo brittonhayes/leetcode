@@ -3,8 +3,7 @@ package reverseint
 import "testing"
 
 type args struct {
-	nums []int
-	num  int
+	num int
 }
 
 type cases []struct {

@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64e41ea-a3b4-4fe1-8be0-59fb7be4a223" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/ringbuffer/ringbuffer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/ringbuffer/ringbuffer.go" afterDir="false" />
-    </list>
+    <list default="true" id="f64e41ea-a3b4-4fe1-8be0-59fb7be4a223" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
