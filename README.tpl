@@ -1,4 +1,4 @@
-# {{.Title}} :terminal:
+# {{.Title}} :zap:
 
 ##### {{.Subtitle}}
 

@@ -1,4 +1,4 @@
-# Leetcode :terminal:
+# Leetcode :zap:
 
 ##### An anthology of my struggle to understand how on earth people practically implement these algorithms.
 
@@ -15,6 +15,10 @@ But hey, trying out new algorithms is fun too.
 These are by no means the absolute right answers, and many of them will likely be incomplete.
 But they sure are a compilation of me giving it the ol' college try.
 So if they help you, awesome! If not, sorry in advance on that one, friend.
+
+## Documentation&nbsp;
+    
+Update the readme with available packages with `go run main.go`
 
 
 

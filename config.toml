@@ -10,6 +10,12 @@ But hey, trying out new algorithms is fun too.
 
 [Sections]
 
+[Sections.Documentation]
+Title = "Documentation"
+Body = '''
+Update the readme with available packages with `go run main.go`
+'''
+
 [Sections.Disclaimer]
 Title = "Disclaimer"
 Emoji = ":loudspeaker:"
