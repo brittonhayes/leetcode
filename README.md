@@ -10,6 +10,13 @@ But hey, trying out new algorithms is fun too.
 [![Go Report Card](https://goreportcard.com/badge/github.com/brittonhayes/leetcode)](https://goreportcard.com/report/github.com/brittonhayes/leetcode)
 
 
+
+
+![Formatting](https://github.com/brittonhayes/leetcode/workflows/golangci-lint/badge.svg)
+
+
+![tests](https://github.com/brittonhayes/leetcode/workflows/test/badge.svg)
+
 ## Disclaimer&nbsp;:loudspeaker:
     
 These are by no means the absolute right answers, and many of them will likely be incomplete.
