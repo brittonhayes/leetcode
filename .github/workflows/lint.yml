@@ -10,6 +10,5 @@ jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
-      - id: 1
-        name: Check with golangci-lint
+      - name: Check with golangci-lint
         uses: actions-contrib/golangci-lint@v1
