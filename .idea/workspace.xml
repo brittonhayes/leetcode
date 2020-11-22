@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64e41ea-a3b4-4fe1-8be0-59fb7be4a223" name="Default Changelist" comment="" />
+    <list default="true" id="f64e41ea-a3b4-4fe1-8be0-59fb7be4a223" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pkg/ringbuffer/ringbuffer.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/ringbuffer/ringbuffer.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,9 +59,10 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ask.go.tool.to.install.GoGolangCILintTaskConsumer" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -168,6 +172,10 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
+    <state x="3404" y="351" width="682" height="337" key="#File_Watchers" timestamp="1606019891233">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3404" y="351" width="682" height="337" key="#File_Watchers/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1606019891233" />
     <state x="3227" y="343" key="#Notifications" timestamp="1606007163070">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
@@ -185,6 +193,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1426" y="411" key="#com.intellij.ide.util.MemberChooser/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1605754326499" />
+    <state x="3050" y="251" width="751" height="473" key="EditFileWatcherDialog" timestamp="1606019907332">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3050" y="251" width="751" height="473" key="EditFileWatcherDialog/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1606019907332" />
     <state x="944" y="483" key="FileChooserDialogImpl" timestamp="1604025426785">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -233,11 +245,11 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3100" y="254" key="IDE.errors.dialog/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1602647416899" />
-    <state x="2738" y="120" width="1318" height="711" key="SettingsEditor" timestamp="1606013743309">
+    <state x="2738" y="120" width="1318" height="711" key="SettingsEditor" timestamp="1606019908748">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="469" y="247" width="1318" height="711" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1605751840889" />
-    <state x="2738" y="120" width="1375" height="708" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1606013743309" />
+    <state x="2738" y="120" width="1375" height="708" key="SettingsEditor/2560.0.1920.1040/0.0.2560.1400@2560.0.1920.1040" timestamp="1606019908748" />
     <state x="1001" y="544" key="cloudConfig.PluginsDialog" timestamp="1602651023964">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

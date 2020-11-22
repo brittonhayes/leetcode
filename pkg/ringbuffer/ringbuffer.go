@@ -2,11 +2,12 @@ package ringbuffer
 
 import "fmt"
 
-type Node struct {
-	prev *Node
-	next *Node
-	key  interface{}
-}
+// Node is used to look ahead and behind in the queue
+//type Node struct {
+//	prev *Node
+//	next *Node
+//	key  interface{}
+//}
 
 type MyCircularQueue struct {
 	Tasks []int
@@ -38,10 +39,7 @@ func (t *MyCircularQueue) DeQueue() bool {
 	if size > 0 {
 		t.Tasks = append(t.Tasks[:0], t.Tasks[1:]...)
 		fmt.Println(t.Tasks)
-		if len(t.Tasks) == (size - 1) {
-			return true
-		}
-		return false
+		return len(t.Tasks) == (size - 1)
 	}
 	return false
 }
