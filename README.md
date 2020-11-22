@@ -1,14 +1,14 @@
 # Leetcode :zap:
 
-##### An anthology of my struggle to understand how on earth people practically implement these algorithms.
-
 >>> 
 This is a home for attempts at Leetcode problems in Go. I wouldn't recommend using these as an answer key.
 I primarily use Leetcode problems as a way to get better at writing tests for weird edge cases.
 But hey, trying out new algorithms is fun too.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="leetcode logo">
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/brittonhayes/leetcode)](https://goreportcard.com/report/github.com/brittonhayes/leetcode)
+
 
 ## Disclaimer&nbsp;:loudspeaker:
     

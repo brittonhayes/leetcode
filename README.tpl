@@ -1,10 +1,10 @@
 # {{.Title}} :zap:
 
-##### {{.Subtitle}}
-
 >>> {{.Description}}
 
-<img src="{{.ImageURL}}" width="{{.ImageSize}}" alt="leetcode logo">
+{{if .ReportCard}}
+[![Go Report Card](https://goreportcard.com/badge/github.com/brittonhayes/leetcode)](https://goreportcard.com/report/github.com/brittonhayes/leetcode)
+{{end}}
 
 {{ range .Sections -}}
     ## {{.Title}}&nbsp;{{with .Emoji -}}{{.}}{{end}}

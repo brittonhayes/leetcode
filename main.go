@@ -10,10 +10,8 @@ import (
 
 type Readme struct {
 	Title       string
-	Subtitle    string
 	Description string
-	ImageURL    string
-	ImageSize   int
+	ReportCard  bool
 	Sections    map[string]Section
 	Packages    map[string]Package
 }
