@@ -7,10 +7,8 @@
 <img src="{{.ImageURL}}" width="{{.ImageSize}}" alt="leetcode logo">
 
 {{ range .Sections -}}
-    <h2>
-        {{.Title}}
-    </h2>{{.Emoji}}
-    <pre>{{.Body}}</pre>
+    ## {{.Title}}&nbsp;{{with .Emoji -}}{{.}}{{end}}
+    {{.Body}}
 {{end}}
 
 ## Packages :package:

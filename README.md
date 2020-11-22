@@ -10,14 +10,12 @@ But hey, trying out new algorithms is fun too.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="60" alt="leetcode logo">
 
-<h2>
-        Disclaimer
-    </h2>:loudspeaker:
-    <pre>
+## Disclaimer&nbsp;:loudspeaker:
+    
 These are by no means the absolute right answers, and many of them will likely be incomplete.
 But they sure are a compilation of me giving it the ol' college try.
 So if they help you, awesome! If not, sorry in advance on that one, friend.
-</pre>
+
 
 
 ## Packages :package:
