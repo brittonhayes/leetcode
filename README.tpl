@@ -1,4 +1,4 @@
-# {{.Title}}
+# {{.Title}} :terminal:
 
 ##### {{.Subtitle}}
 
@@ -6,15 +6,14 @@
 
 <img src="{{.ImageURL}}" width="{{.ImageSize}}" alt="leetcode logo">
 
-## Disclaimer
-
-{{ with .Disclaimer -}}
-```
-{{.}}
-```
+{{ range .Sections -}}
+    <h2>
+        {{.Title}}
+    </h2>{{.Emoji}}
+    <pre>{{.Body}}</pre>
 {{end}}
 
-## Packages
+## Packages :package:
 
 | Title | Description | Path |
 | :--- | :--- | :--- |

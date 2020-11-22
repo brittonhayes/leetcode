@@ -12,10 +12,16 @@ type Readme struct {
 	Title       string
 	Subtitle    string
 	Description string
-	Disclaimer  string
 	ImageURL    string
 	ImageSize   int
+	Sections    map[string]Section
 	Packages    map[string]Package
+}
+
+type Section struct {
+	Title string
+	Body  string
+	Emoji string
 }
 
 type Package struct {

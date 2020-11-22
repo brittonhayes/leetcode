@@ -7,13 +7,20 @@ This is a home for attempts at Leetcode problems in Go. I wouldn't recommend usi
 I primarily use Leetcode problems as a way to get better at writing tests for weird edge cases.
 But hey, trying out new algorithms is fun too.
 '''
-Disclaimer = '''
+
+[Sections]
+
+[Sections.Disclaimer]
+Title = "Disclaimer"
+Emoji = ":loudspeaker:"
+Body = '''
 These are by no means the absolute right answers, and many of them will likely be incomplete.
 But they sure are a compilation of me giving it the ol' college try.
 So if they help you, awesome! If not, sorry in advance on that one, friend.
 '''
 
 [Packages]
+
 [Packages.atoi]
 Title = "atoi"
 Description = "Converting strings to integers."
