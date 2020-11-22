@@ -1,5 +1,6 @@
 Title = "Leetcode"
 ReportCard = true
+CIBadge = true
 Description = '''
 This is a home for attempts at Leetcode problems in Go. I wouldn't recommend using these as an answer key.
 I primarily use Leetcode problems as a way to get better at writing tests for weird edge cases.

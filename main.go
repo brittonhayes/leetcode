@@ -12,6 +12,7 @@ type Readme struct {
 	Title       string
 	Description string
 	ReportCard  bool
+	CIBadge     bool
 	Sections    map[string]Section
 	Packages    map[string]Package
 }
